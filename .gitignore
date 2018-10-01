@@ -1,0 +1,18 @@
+# All data
+*.csv
+
+# All ipython checkpoints for jupyter
+*.ipynb_checkpoints
+
+# all .h5 model files
+*.h5
+
+#model files
+*.mat
+
+# All pb files
+*.pb
+
+*.data-00000-of-00001
+*.index
+*.meta
