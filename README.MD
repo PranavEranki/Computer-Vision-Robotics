@@ -7,6 +7,7 @@ computer vision library*.
 
 __*This will stimulate a 10 Week AI Course*__
 
+__For the intro to Python course, go to [this link](https://github.com/ShashankVenkatramani/PythonLessons).__
 <hr/>
 
 ## Timeline:
