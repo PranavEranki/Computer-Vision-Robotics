@@ -7,20 +7,21 @@ computer vision library*.
 
 __*This will stimulate a 10 Week AI Course*__
 
+__For the intro to Python course, go to [this link](https://github.com/ShashankVenkatramani/PythonLessons).__
 <hr/>
 
 ## Timeline:
 
 * Week [1](Week_01): Introduction to image I/O, reading writing
 * Week [2](Week_02): Thresholding, Filtering
-* Week [3](Week_03): Viola Jones Face Detection Algorithm
-* Week [4](Week_04): Understanding Neural Networks for Regression and Classification
-* Week [5](Week_05): Understanding CNNs, then implementing them for MNIST
+* Week [3](Week_03): Understanding Neural Networks for Regression and Classification
+* Week [4](Week_04): Understanding CNNs, then implementing them for MNIST
+* Week [5](Week_05): Viola Jones Face Detection Algorithm 
 * Week [6](Week_06): Blurring, Edge Detection, and Face Detection
 * Week [7](Week_07): Live Facial Key point Detection
 * Week [8](Week_08): SSD object detection algorithm intuition
 * Week [9](Week_09): Semantic Segmentation Intuition
-* Week [10](Week_10): Neural Style Transfer Intuition, Package Open-Sourcing
+* Week [10](Week_10): Neural Style Transfer Intuition, PyPi Package Open-Sourcing
 
 <hr/>
 
